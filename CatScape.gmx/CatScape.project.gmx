@@ -9,7 +9,13 @@
     <sound>sound\s_action_01</sound>
   </sounds>
   <sprites name="sprites">
-    <sprite>sprites\spr_cat</sprite>
+    <sprite>sprites\spr_cat_move_normal</sprite>
+    <sprite>sprites\spr_cat_idle</sprite>
+    <sprite>sprites\spr_cat_move_run</sprite>
+    <sprite>sprites\spr_cat_move_jump</sprite>
+    <sprite>sprites\spr_cat_move_dash</sprite>
+    <sprite>sprites\spr_cat_hurt</sprite>
+    <sprite>sprites\spr_cat_dead</sprite>
   </sprites>
   <backgrounds name="background">
     <background>background\bg_mmenu</background>
