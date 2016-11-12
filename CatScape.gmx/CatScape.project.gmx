@@ -6,6 +6,7 @@
   <NewExtensions/>
   <sounds name="sound">
     <sound>sound\s_ambient_01</sound>
+    <sound>sound\s_action_01</sound>
   </sounds>
   <sprites name="sprites">
     <sprite>sprites\spr_cat</sprite>
